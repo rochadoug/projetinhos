@@ -1,0 +1,61 @@
+body{
+    margin: 0 0;
+    background-color:rgb(41, 53, 65);
+    
+}
+
+.container {
+    background-color:gainsboro;
+    margin-top: 80px;
+    height: 1500px;
+}
+
+th {
+    color: brown;
+}
+
+h1{
+    color: rgb(230, 170, 91);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.navbar{
+    background: rgba(50,70,70,0.2);/* rgba(66, 78, 83, 0.3);*/
+    height: 80px;
+    
+}
+
+.nav-link{
+    color: #f7eeee;
+}
+
+#alertS {
+    position:fixed ;
+    top: 40%;
+    left: 85%; 
+    max-width: 200px;
+    width: 200px;
+}
+
+.title_page {
+    border-radius: 10px 10px 0 0;
+}
+
+.info-card{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+.info-card li{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.card .painel{
+    color:aliceblue;
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
